@@ -81,7 +81,7 @@
       "id": "1",
       "pic": "./src/assets/brand/1.jpg",
       "name": "Huelley Rose",
-      "brand": "",
+      "brand": "1",
       "price": "790",
       "type": "new"
     },
@@ -89,7 +89,7 @@
       "id": "2",
       "pic": "./src/assets/brand/2.jpg",
       "name": "CLELIE",
-      "brand": "",
+      "brand": "2",
       "price": "590",
       "type": "new"
     },
@@ -97,7 +97,7 @@
       "id": "3",
       "pic": "./src/assets/brand/3.jpg",
       "name": "L Seoul",
-      "brand": "",
+      "brand": "2",
       "price": "1290",
       "type": "new"
     },
@@ -105,7 +105,7 @@
       "id": "4",
       "pic": "./src/assets/brand/4.jpg",
       "name": "CICI",
-      "brand": "",
+      "brand": "1",
       "price": "2490",
       "type": "new"
     },
@@ -113,7 +113,7 @@
       "id": "5",
       "pic": "./src/assets/brand/5.jpg",
       "name": "Vintage.gout",
-      "brand": "",
+      "brand": "1",
       "price": "990",
       "type": "new"
     },
@@ -121,7 +121,7 @@
       "id": "6",
       "pic": "./src/assets/brand/6.jpg",
       "name": "Wet Avocado",
-      "brand": "",
+      "brand": "1",
       "price": "1190",
       "type": "best"
     },
@@ -129,7 +129,7 @@
       "id": "7",
       "pic": "./src/assets/brand/7.jpg",
       "name": "Onan Made",
-      "brand": "",
+      "brand": "1",
       "price": "1250",
       "type": "best"
     },
@@ -137,7 +137,7 @@
       "id": "8",
       "pic": "./src/assets/brand/8.jpg",
       "name": "Mamavirus",
-      "brand": "",
+      "brand": "1",
       "price": "890",
       "type": "best"
     },
@@ -145,14 +145,14 @@
       "id": "9",
       "pic": "./src/assets/brand/9.jpg",
       "name": "Ohmyshirts",
-      "brand": "",
+      "brand": "1",
       "price": "390",
       "type": "best"
     },
     {
       "id": "10",
       "pic": "./src/assets/brand/10.jpg",
-      "brand": "",
+      "brand": "1",
       "name": "Dottie",
       "price": "1280",
       "type": ""
@@ -160,7 +160,7 @@
     {
       "id": "11",
       "pic": "./src/assets/brand/11.jpg",
-      "brand": "",
+      "brand": "1",
       "name": "???",
       "price": "???",
       "type": ""
@@ -168,7 +168,7 @@
     {
       "id": "12",
       "pic": "./src/assets/brand/12.jpg",
-      "brand": "",
+      "brand": "10",
       "name": "D A T T",
       "price": "490",
       "type": ""
@@ -176,7 +176,7 @@
     {
       "id": "13",
       "pic": "./src/assets/brand/13.jpg",
-      "brand": "",
+      "brand": "10",
       "name": "Rechic",
       "price": "1320",
       "type": ""
@@ -184,7 +184,7 @@
     {
       "id": "14",
       "pic": "./src/assets/brand/14.jpg",
-      "brand": "",
+      "brand": "10",
       "name": "K Closet",
       "price": "1550",
       "type": ""
@@ -192,7 +192,7 @@
     {
       "id": "15",
       "pic": "./src/assets/brand/15.jpg",
-      "brand": "",
+      "brand": "10",
       "name": "Lespoir",
       "price": "1480",
       "type": ""

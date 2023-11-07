@@ -4,7 +4,7 @@
   </h1>
   <div class="brand-gal">
     <div class="brand" v-for="brand in brands" :key="brand.id">
-      <router-link :to="'/gallary/:id'+brand.id">
+      <router-link :to="'/gallary/'+brand.id">
         <img class="img-brand" :src="brand.pic" />
         <div style="text-decoration:inherit">{{ brand.brand.toLocaleUpperCase() }}</div>
       </router-link>
@@ -26,6 +26,13 @@ export default {
 </script>
 
 <style>
+a div{
+  font-size: smaller;
+  color: gainsboro;
+  text-decoration: none;
+}
+
+
 .brand {
   height: 150px;
 }
@@ -41,7 +48,7 @@ export default {
   margin: 1rem 2rem 2rem;
   display: grid;
   gap: 0.2rem;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
   justify-items: center;
 }
 </style>

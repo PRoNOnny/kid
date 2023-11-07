@@ -8,7 +8,7 @@ function cal(od,num){
 }
 
 export default {
-  props: ['product', 'name'],
+  props: ['product', 'name', 'brand'],
   methods:{  
     qty(id){
       return od.filter(el => el.id == id)[0]?.qty
@@ -38,7 +38,7 @@ export default {
 
 <template>
   <div class="product"  v-on:contextmenu.prevent>
-    <div v-for="pro in name != '' ? product['products'].filter(el => el.type == name): product['products']" :key="pro.id" class="container box" v-on:mousedown="deleteProduct($event, pro)">
+    <div v-for="pro in name != '' ?  product['products'].filter(el => el.type == name): brand ? product['products'].filter(el => el.brand == brand) : product['products']" :key="pro.id" class="container box" v-on:mousedown="deleteProduct($event, pro)">
       <span class="qty">{{ qty(pro.id) }}</span>
       <img class="pic" v-bind:src="pro.pic"/>
       <div style="margin:.5rem 0">{{pro.name}}</div>
