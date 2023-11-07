@@ -1,0 +1,201 @@
+{
+  "brand": [
+    {
+      "id": "1",
+      "pic": "./src/assets/brand/1.jpg",
+      "brand": "Huelley Rose"
+    },
+    {
+      "id": "2",
+      "pic": "./src/assets/brand/2.jpg",
+      "brand": "CLELIE"
+    },
+    {
+      "id": "3",
+      "pic": "./src/assets/brand/3.jpg",
+      "brand": "L Seoul"
+    },
+    {
+      "id": "4",
+      "pic": "./src/assets/brand/4.jpg",
+      "brand": "CICI"
+    },
+    {
+      "id": "5",
+      "pic": "./src/assets/brand/5.jpg",
+      "brand": "Vintage.gout"
+    },
+    {
+      "id": "6",
+      "pic": "./src/assets/brand/6.jpg",
+      "brand": "Wet Avocado"
+    },
+    {
+      "id": "7",
+      "pic": "./src/assets/brand/7.jpg",
+      "brand": "Onan Made"
+    },
+    {
+      "id": "8",
+      "pic": "./src/assets/brand/8.jpg",
+      "brand": "Mamavirus"
+    },
+    {
+      "id": "9",
+      "pic": "./src/assets/brand/9.jpg",
+      "brand": "Ohmyshirts"
+    },
+    {
+      "id": "10",
+      "pic": "./src/assets/brand/10.jpg",
+      "brand": "Dottie"
+    },
+    {
+      "id": "11",
+      "pic": "./src/assets/brand/11.jpg",
+      "brand": "???"
+    },
+    {
+      "id": "12",
+      "pic": "./src/assets/brand/12.jpg",
+      "brand": "D A T T"
+    },
+    {
+      "id": "13",
+      "pic": "./src/assets/brand/13.jpg",
+      "brand": "Rechic"
+    },
+    {
+      "id": "14",
+      "pic": "./src/assets/brand/14.jpg",
+      "brand": "K Closet"
+    },
+    {
+      "id": "15",
+      "pic": "./src/assets/brand/15.jpg",
+      "brand": "Lespoir"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "pic": "./src/assets/brand/1.jpg",
+      "name": "Huelley Rose",
+      "brand": "",
+      "price": "790",
+      "type": "new"
+    },
+    {
+      "id": "2",
+      "pic": "./src/assets/brand/2.jpg",
+      "name": "CLELIE",
+      "brand": "",
+      "price": "590",
+      "type": "new"
+    },
+    {
+      "id": "3",
+      "pic": "./src/assets/brand/3.jpg",
+      "name": "L Seoul",
+      "brand": "",
+      "price": "1290",
+      "type": "new"
+    },
+    {
+      "id": "4",
+      "pic": "./src/assets/brand/4.jpg",
+      "name": "CICI",
+      "brand": "",
+      "price": "2490",
+      "type": "new"
+    },
+    {
+      "id": "5",
+      "pic": "./src/assets/brand/5.jpg",
+      "name": "Vintage.gout",
+      "brand": "",
+      "price": "990",
+      "type": "new"
+    },
+    {
+      "id": "6",
+      "pic": "./src/assets/brand/6.jpg",
+      "name": "Wet Avocado",
+      "brand": "",
+      "price": "1190",
+      "type": "best"
+    },
+    {
+      "id": "7",
+      "pic": "./src/assets/brand/7.jpg",
+      "name": "Onan Made",
+      "brand": "",
+      "price": "1250",
+      "type": "best"
+    },
+    {
+      "id": "8",
+      "pic": "./src/assets/brand/8.jpg",
+      "name": "Mamavirus",
+      "brand": "",
+      "price": "890",
+      "type": "best"
+    },
+    {
+      "id": "9",
+      "pic": "./src/assets/brand/9.jpg",
+      "name": "Ohmyshirts",
+      "brand": "",
+      "price": "390",
+      "type": "best"
+    },
+    {
+      "id": "10",
+      "pic": "./src/assets/brand/10.jpg",
+      "brand": "",
+      "name": "Dottie",
+      "price": "1280",
+      "type": ""
+    },
+    {
+      "id": "11",
+      "pic": "./src/assets/brand/11.jpg",
+      "brand": "",
+      "name": "???",
+      "price": "???",
+      "type": ""
+    },
+    {
+      "id": "12",
+      "pic": "./src/assets/brand/12.jpg",
+      "brand": "",
+      "name": "D A T T",
+      "price": "490",
+      "type": ""
+    },
+    {
+      "id": "13",
+      "pic": "./src/assets/brand/13.jpg",
+      "brand": "",
+      "name": "Rechic",
+      "price": "1320",
+      "type": ""
+    },
+    {
+      "id": "14",
+      "pic": "./src/assets/brand/14.jpg",
+      "brand": "",
+      "name": "K Closet",
+      "price": "1550",
+      "type": ""
+    },
+    {
+      "id": "15",
+      "pic": "./src/assets/brand/15.jpg",
+      "brand": "",
+      "name": "Lespoir",
+      "price": "1480",
+      "type": ""
+    }
+  ]
+}
