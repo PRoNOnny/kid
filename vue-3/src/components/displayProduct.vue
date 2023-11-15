@@ -43,7 +43,7 @@ export default {
       <img class="pic" v-bind:src="pro.pic"/>
       <div style="margin:.5rem 0">{{pro.name}}</div>
       <div> </div>
-      <div style="font-size:9px;"><span style="color:red">{{pro.price}} </span><span> Bath</span></div>
+      <div style="font-size:9px;"><span style="color:white">{{pro.price}} </span><span> Bath</span></div>
     </div>
   </div>
 </template>
@@ -63,7 +63,7 @@ export default {
   height: 15rem;
   width: 10rem;
   border-radius: 5px;
-  background-color: rgb(40, 40, 49);
+  background-color: rgb(177, 145, 193);
   margin-bottom: 1rem;
   position: relative;
 }

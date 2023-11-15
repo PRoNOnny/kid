@@ -28,7 +28,7 @@ export default {
 <style>
 a div{
   font-size: smaller;
-  color: gainsboro;
+  color: rgb(223, 40, 156);
   text-decoration: none;
 }
 

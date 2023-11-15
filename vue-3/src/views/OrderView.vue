@@ -22,10 +22,10 @@ const calculate = () => {
   <BThead head-variant="dark">
     <BTr>
       <BTh colspan="1">No.</BTh>
-      <BTh colspan="5">รายการสินค้า</BTh>
-      <BTh colspan="2">ราคาต่อชิ้น</BTh>
-      <BTh colspan="2">จำนวน</BTh>
-      <BTh colspan="2">ราคารวม</BTh>
+      <BTh colspan="5">Particular</BTh>
+      <BTh colspan="2">1 EA</BTh>
+      <BTh colspan="2">Amount</BTh>
+      <BTh colspan="2">Total</BTh>
     </BTr>
   </BThead>
   <BTbody>

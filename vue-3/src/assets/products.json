@@ -196,6 +196,15 @@
       "name": "Lespoir",
       "price": "1480",
       "type": ""
+    },
+    {
+      "id": "3",
+      "pic": "./src/assets/brand/8.jpg",
+      "brand": "3",
+      "name": "Lespoir",
+      "price": "1480",
+      "type": ""
     }
+
   ]
 }

@@ -7,7 +7,15 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    BBadge: typeof import('bootstrap-vue-next')['BBadge']
     BButton: typeof import('bootstrap-vue-next')['BButton']
+    BCard: typeof import('bootstrap-vue-next')['BCard']
+    BForm: typeof import('bootstrap-vue-next')['BForm']
+    BFormCheckbox: typeof import('bootstrap-vue-next')['BFormCheckbox']
+    BFormCheckboxGroup: typeof import('bootstrap-vue-next')['BFormCheckboxGroup']
+    BFormGroup: typeof import('bootstrap-vue-next')['BFormGroup']
+    BFormInput: typeof import('bootstrap-vue-next')['BFormInput']
+    BFormSelect: typeof import('bootstrap-vue-next')['BFormSelect']
     BNav: typeof import('bootstrap-vue-next')['BNav']
     BNavItem: typeof import('bootstrap-vue-next')['BNavItem']
     BTableSimple: typeof import('bootstrap-vue-next')['BTableSimple']
@@ -29,6 +37,7 @@ declare module 'vue' {
     IMdiTshirt: typeof import('~icons/mdi/tshirt')['default']
     IMdiTshirtCr: typeof import('~icons/mdi/tshirt-cr')['default']
     IMdiTshirtCrew: typeof import('~icons/mdi/tshirt-crew')['default']
+    Reviews: typeof import('./src/components/Reviews.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
