@@ -6,7 +6,7 @@ import Icons from 'unplugin-icons/vite'
 import IconsResolve from 'unplugin-icons/resolver'
 
 export default defineConfig({
-  base: '/deploy-viet-shop-web/',
+  base: '/kid/',
   plugins: [
     vue(),
     Components({
