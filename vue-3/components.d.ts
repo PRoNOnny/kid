@@ -7,9 +7,7 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
-    BBadge: typeof import('bootstrap-vue-next')['BBadge']
     BButton: typeof import('bootstrap-vue-next')['BButton']
-    BCard: typeof import('bootstrap-vue-next')['BCard']
     BForm: typeof import('bootstrap-vue-next')['BForm']
     BFormCheckbox: typeof import('bootstrap-vue-next')['BFormCheckbox']
     BFormCheckboxGroup: typeof import('bootstrap-vue-next')['BFormCheckboxGroup']
@@ -27,15 +25,7 @@ declare module 'vue' {
     BTr: typeof import('bootstrap-vue-next')['BTr']
     DisplayProduct: typeof import('./src/components/displayProduct.vue')['default']
     IMdiCart: typeof import('~icons/mdi/cart')['default']
-    IMdiDrink: typeof import('~icons/mdi/drink')['default']
-    IMdiFood: typeof import('~icons/mdi/food')['default']
-    IMdiGa: typeof import('~icons/mdi/ga')['default']
-    IMdiGal: typeof import('~icons/mdi/gal')['default']
-    IMdiGallary: typeof import('~icons/mdi/gallary')['default']
-    IMdiGalllary: typeof import('~icons/mdi/galllary')['default']
     IMdiHome: typeof import('~icons/mdi/home')['default']
-    IMdiTshirt: typeof import('~icons/mdi/tshirt')['default']
-    IMdiTshirtCr: typeof import('~icons/mdi/tshirt-cr')['default']
     IMdiTshirtCrew: typeof import('~icons/mdi/tshirt-crew')['default']
     Reviews: typeof import('./src/components/Reviews.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
