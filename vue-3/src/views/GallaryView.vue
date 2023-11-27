@@ -6,6 +6,7 @@
         </h1>
         <displayProduct name="" :brand="this.$route.params.id" :product="product">  </displayProduct>
       </div>
+      <div>tttttttttttttt</div>
 </template>
 
 <script>
